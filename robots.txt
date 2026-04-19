@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pure-air-ashy.vercel.app/sitemap.xml
